@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @subh-775
-- 👀 I’m interested in playing sports and sometimes coding
-- 🌱 I’m currently learning ML and image visualisation techniques
-- 😄 Pronouns: subh
+# Hello, I'm [Subhansh malviya]! 👋
 
-<!---
-subh-775/subh-775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me 📖
+I'm a passionate coder with a love for coding and innovation.
+Currently learning CV techniques,Deep Learning and Machine Learning.
+
+## Skills 🛠️
+- Programming Languages: Python, C, C++, MATLAB 
+- Frameworks: React, Node.js
+
+## Connect with Me 🌐
+- [LinkedIn]([https://github.com/topics/profile-website](https://www.linkedin.com/in/subhansh-malviya-a43b5b28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+!Subh's GitHub stats
+
+<!-- Replace 'yourusername' with your GitHub username -->
