@@ -10,6 +10,5 @@ Currently learning CV techniques,Deep Learning and Machine Learning.
 
 ## Connect with Me 🌐
 - [LinkedIn]([https://github.com/topics/profile-website](https://www.linkedin.com/in/subhansh-malviya-a43b5b28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-!Subh's GitHub stats
 
 <!-- Replace 'yourusername' with your GitHub username -->
