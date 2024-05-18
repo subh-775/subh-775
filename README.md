@@ -1,7 +1,7 @@
 # Hello, I'm [Subhansh malviya]! 👋
 
 ## About Me 📖
-I'm a passionate coder with a love for coding and innovation.
+I'm a passionate coder. 
 Currently learning CV techniques,Deep Learning and Machine Learning.
 
 ## Skills 🛠️
