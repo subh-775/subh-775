@@ -1,14 +1,11 @@
-# Hello, I'm [Subhansh malviya]! 👋
+# Hello, It's [Subhansh malviya] here ! 👋
 
 ## About Me 📖
-I'm a passionate coder. 
-Currently learning CV techniques,Deep Learning and Machine Learning.
+Just a noob programmer 🤡
+learning projects curves under deep learning
 
 ## Skills 🛠️
-- Programming Languages: Python, C, C++, MATLAB 
-- Frameworks: React, Node.js
-
-## Connect with Me 🌐
-- [LinkedIn]([https://github.com/topics/profile-website](https://www.linkedin.com/in/subhansh-malviya-a43b5b28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- Programming Languages: Python, C, C++, MATLAB
+- Frameworks: Node.js
 
 <!-- Replace 'yourusername' with your GitHub username -->
