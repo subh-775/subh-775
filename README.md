@@ -2,7 +2,7 @@
 
 ## About Me 📖
 Just a noob programmer 🤡
-learning projects curves under deep learning
+learning CV and NLP under deep learning
 
 ## Skills 🛠️
 - Programming Languages: Python, C, C++, MATLAB
