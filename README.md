@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Subhansh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1>Hi there, I'm [Your Name]! 👋</h1>
 
-- 🔭 I’m currently working on **NLP (LLMs)**
-
-- 🌱 I’m currently learning **Image Generation using ControlNet and Flux**
-
-- 💬 Ask me about **Generative AI**
-
-- 📫 You can reach me **subhansh4268@gmail.com**
-
-- ⚡ Fun fact **I like playing sports as well as musical instruments**
-
-<p align="left">
+<h2>🚀 About Me</h2>
+<p>
+    I'm a passionate machine learning enthusiast with a keen interest in leveraging data to solve real-world problems. Currently exploring the dynamic fields of artificial intelligence, I thrive on the challenges and innovations that come with this rapidly evolving technology landscape.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2>🔧 Skills</h2>
+<ul>
+    <li><strong>Programming Languages:</strong> Python, SQL</li>
+    <li><strong>Machine Learning Frameworks:</strong> TensorFlow, PyTorch, Scikit-learn</li>
+    <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Matplotlib</li>
+    <li><strong>Tools & Technologies:</strong> Jupyter Notebook, Git, </li>
+    <li><strong>Cloud Platforms:</strong>Google Cloud</li>
+</ul>
+
+<h2>🌱 Current Projects</h2>
+<ul>
+    <li><strong>Image generation along with unstructed text in it:</strong>A Teamwork project to create a model which will create images along with right spell of the given letters.(e.g : Think of as posters)</li>
+    <li><strong>Data Visualization Dashboard:</strong> Creating interactive dashboards to present complex data insights in an accessible way.</li>
+</ul>
+
+<h2>📫 Let's Connect!</h2>
+<p>
+    I love collaborating and sharing ideas! Feel free to reach out to me at: subhansh4268@gmail.com
+</p>
+
+<p>Thank you for visiting my GitHub profile! Let’s create something amazing together! 💡</p>
