@@ -1,4 +1,4 @@
-<h1>Hi there, I'm [Your Name]! 👋</h1>
+<h1>Hi there, I'm [Subhansh Malviya]! 👋</h1>
 
 <h2>🚀 About Me</h2>
 <p>
@@ -22,7 +22,8 @@
 
 <h2>📫 Let's Connect!</h2>
 <p>
-    I love collaborating and sharing ideas! Feel free to reach out to me at: subhansh4268@gmail.com
+    I love collaborating and sharing ideas! Feel free to reach out to me at: <a href="subhansh4268@gmail.com">subhansh4268@gmail.com</a>
+
 </p>
 
 <p>Thank you for visiting my GitHub profile! Let’s create something amazing together! 💡</p>
