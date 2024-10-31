@@ -1,4 +1,4 @@
-<h1>Hi there, I'm [Subhansh Malviya]! 👋</h1>
+<h1>Hi there, I'm Subhansh Malviya! 👋</h1>
 
 <h2>🚀 About Me</h2>
 <p>
