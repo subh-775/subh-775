@@ -23,6 +23,7 @@
 <h2>📫 Let's Connect!</h2>
 <p>
     I love collaborating and sharing ideas! Feel free to reach out to me at: <a href="subhansh4268@gmail.com">subhansh4268@gmail.com</a>
+    <b>HuggingFace : <a href=https://huggingface.co/Subh775>Subh775</a></b>
 
 </p>
 
