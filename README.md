@@ -8,10 +8,10 @@
 <h2>🔧 Skills</h2>
 <ul>
     <li><strong>Programming Languages:</strong> Python, SQL, MATLAB</li>
-    <li><strong>Machine Learning Frameworks:</strong> TensorFlow, PyTorch, Scikit-learn</li>
+    <li><strong>Machine Learning Frameworks:</strong> TensorFlow, PyTorch </li>
     <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy </li>
     <li><strong>Tools & Technologies:</strong> Jupyter Notebook, Git</li>
-    <li><strong>Cloud Platforms:</strong>Google Cloud</li>
+    <li><strong>Cloud Platforms:</strong> Google Cloud</li>
 </ul>
 
 <h2>🌱 Current Projects</h2>
