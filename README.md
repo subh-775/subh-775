@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://github.com/subh-775/subh-775/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+</p>
 <h1>Hi there, I'm Subhansh Malviya! 👋</h1>
 
 <h2>🚀 About Me</h2>
