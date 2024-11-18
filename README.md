@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?lines=MACHINE%20LEARNING%20;DATA%20SCIENTIST%20;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;LEARNING%20DEVELOPER%20;DESIGNER&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+     <img src="https://readme-typing-svg.demolab.com/?lines=MACHINE%20LEARNING%20ENTHUSIAST%20;DATA%20SCIENTIST%20;ARTIFICIAL%20INTELLIGENCE%20(AI);AI%20 RESEARCHER%20;LEARNING%20DEVELOPER%20;DEEP%20LEARNING%20PRACTITIONER&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
 <h1>Hi there, I'm Subhansh Malviya! 👋</h1>
 
