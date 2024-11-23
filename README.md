@@ -1,6 +1,7 @@
-<p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?lines=MACHINE%20LEARNING%20ENTHUSIAST%20;PYTHON%20DEVELOPER;DATA%20SCIENTIST%20;ARTIFICIAL%20INTELLIGENCE%20(AI);AI%20 RESEARCHER%20;LEARNING%20DEVELOPER%20;DEEP%20LEARNING%20PRACTITIONER&font=fira%20Code&center=true&width=440&height=35&color=ee5145&vCenter=true&pause=1000&size=20" />
+<p align="left">
+    <img src="https://readme-typing-svg.demolab.com/?lines=MACHINE%20LEARNING%20ENTHUSIAST;PYTHON%20DEVELOPER;DATA%20SCIENTIST;ARTIFICIAL%20INTELLIGENCE%20(AI);AI%20RESEARCHER;LEARNING%20DEVELOPER;DEEP%20LEARNING%20PRACTITIONER&font=Fira%20Code&align=left&width=600&height=50&color=EE5145&vCenter=true&pause=1000&size=25" />
 </p>
+
 <h1>Hi there, I'm Subhansh Malviya! 👋</h1>
 
 <h2>🚀 About Me</h2>
