@@ -21,7 +21,6 @@
 <h2>🌱 Current Projects</h2>
 <ul>
     <li><strong>Image generation along with unstructed text in it:</strong>A Teamwork project to create a model which will create images along with right spell of the given letters.(e.g : Think of as posters)</li>
-    <li><strong>Data Visualization Dashboard:</strong> Creating interactive dashboards to present complex data insights in an accessible way.</li>
 </ul>
 
 <h2>📫 Let's Connect!</h2>
