@@ -13,7 +13,7 @@
 <ul>
     <li><strong>Programming Languages:</strong> Python, R-Programming, SQL, MATLAB</li>
     <li><strong>Machine Learning Frameworks:</strong> TensorFlow, PyTorch </li>
-    <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Wandb.ai </li>
+    <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Wandb</li>
     <li><strong>Tools & Technologies:</strong> Jupyter Notebook, Git</li>
     <li><strong>Cloud Platforms:</strong> Google Cloud</li>
 </ul>
