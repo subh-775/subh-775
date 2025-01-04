@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=PYTHON%20DEVELOPER;ASPIRING%20DATA%20SCIENTIST;AI%20RESEARCHER;DEEP%20LEARNING%20PRACTITIONER&font=Fira%20Code&align=center&width=600&height=50&color=FF7A33&vCenter=true&pause=500&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=ASPIRING%20DATA%20SCIENTIST;AI%20RESEARCHER;DEEP%20LEARNING%20PRACTITIONER&font=Fira%20Code&align=center&width=600&height=50&color=FF7L33&vCenter=true&pause=500&size=30" />
 </p>
 
 <h1 align="center">Hi there, I'm Subhansh Malviya! 👋</h1>
