@@ -15,7 +15,7 @@
 
 <h2>🔧 Skills</h2>
 <ul>
-    <li><strong>Programming Languages:</strong> Python 🐍, R, SQL, MATLAB</li>
+    <li><strong>Programming Languages:</strong> Python , R, SQL, MATLAB</li>
     <li><strong>Machine Learning Frameworks:</strong> TensorFlow, PyTorch</li>
     <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Matplotlib, Weights & Biases (WandB)</li>
     <li><strong>Tools & Technologies:</strong> Jupyter Notebook, Git, OpenCV</li>
