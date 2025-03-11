@@ -59,13 +59,4 @@ I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let'
     </a>
 </p>
 
----
-
-## 🖥️ Divider  
-<p align="center">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">✨ Thank you for visiting my GitHub profile! Let’s innovate and learn together. 🚀</p>
