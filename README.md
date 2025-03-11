@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me  
-I am a passionate **Machine Learning** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
-I thrive on solving real-world problems with cutting-edge AI techniques, from **image generation** to **real-time object detection**.  
+I am a passionate **Computer-vision** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
+I thrive on solving real-world problems with cutting-edge AI techniques.  
 I actively work on **open-source projects** and **AI research** to push the boundaries of AI capabilities.
 
 ---
@@ -40,19 +40,11 @@ Building **smart LLMs** that understand user intent and provide accurate respons
 
 ## 📊 Stats 
 
-### **🏆 GitHub Trophies**
+### **🏆 Trophies**
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
 </p>
 
-### **🔥 GitHub Streak Stats**
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast" />
-</p>
-
-<p align="center">
-    <img src="https://github.com/subh-775/subh-775/blob/main/github-metrics.svg" />
-</p>
 
 ## 📫 Let's Connect!  
 I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let's **connect** and build something amazing together!  
