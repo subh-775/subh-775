@@ -70,6 +70,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subh-775&layout=compact&theme=tokyonight)](https://github.com/subh-775)
 ![Profile Views](https://komarev.com/ghpvc/?username=subh-775&color=blue&style=flat-square)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula)](https://github.com/subh-775)
-![GitHub Snake](https://github.com/subh-775/subh-775/blob/output/github-contribution-grid-snake.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast)](https://github.com/subh-775)
+
+![GitHub Snake](https://github.com/subh-775/subh-775/blob/output/github-contribution-grid-snake.svg)
 
