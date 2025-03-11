@@ -57,7 +57,7 @@
 </p>
 <ul>
     <li>📧 Email: <a href="mailto:subhansh4268@gmail.com">subhansh4268@gmail.com</a></li>
-    <li>🤖 Hugging Face: <a href="https://huggingface.co/Subh775" target="_blank">My Models & Datasets</a></li>
+    <li>🤖 Hugging Face: ![HuggingFace](https://img.shields.io/badge/View-3D_Model-blue)](https://huggingface.co/Subh775)</li>
 </ul>
 
 ---
