@@ -58,6 +58,9 @@
 </p>
 
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Models_&_Datasets-yellow?logo=huggingface)](https://huggingface.co/Subh775)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white)](mailto:subhansh4268@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhansh-malviya)
+
 
 
 ---
