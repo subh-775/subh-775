@@ -56,7 +56,7 @@
     I enjoy collaborating, sharing ideas, and working on impactful projects. Let’s connect and build something amazing together!  
 </p>
     📧 Email: <a href="mailto:subhansh4268@gmail.com">subhansh4268@gmail.com</a>
-    🤖 Hugging Face: ![HuggingFace](https://img.shields.io/badge/View-3D_Model-blue)](https://huggingface.co/Subh775)
+    ![HuggingFace](https://img.shields.io/badge/View-3D_Model-blue)](https://huggingface.co/Subh775)
 
 ---
 
