@@ -51,8 +51,6 @@
 
 ---
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subh-775&layout=compact&theme=tokyonight)](https://github.com/subh-775)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula)](https://github.com/subh-775)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast)](https://github.com/subh-775)
 
