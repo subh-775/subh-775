@@ -70,6 +70,17 @@
 
 <p align="center">Thank you for visiting my GitHub profile! Let’s innovate and learn together. 💡🚀</p>
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A)](https://github.com/subh-775)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=subh-775&theme=radical)](https://github.com/subh-775)
+[![GitHub Skyline](https://skyline.github.com/subh-775/2023.png)](https://skyline.github.com/subh-775)
+![Metrics](https://github.com/subh-775/subh-775/blob/main/github-metrics.svg)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=github)](https://github.com/subh-775)
+![Profile ASCII Art](https://github.com/subh-775/subh-775/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Animated Line](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Header](https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya-orange?style=for-the-badge)
+
+
 
 
 
