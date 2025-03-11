@@ -1,87 +1,119 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Learner%20;%20AI-Researcher;DEEP%20LEARNING%20PRACTITIONER;OPEN%20SOURCE%20CONTRIBUTOR&font=Fira%20Code&align=center&width=700&height=50&color=KS9L33&vCenter=true&pause=500&size=30" />
+    <img src="https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya-orange?style=for-the-badge" />
 </p>
 
 <h1 align="center">Hi there, I'm Subhansh Malviya! 👋</h1>
 
 ---
 
-<h2>🚀 About Me</h2>
-<p>
-    I am a passionate <strong>Machine Learning</strong> and <strong>Deep Learning</strong> enthusiast with a strong interest in building intelligent solutions using AI.  
-    I thrive on solving real-world problems with cutting-edge AI techniques, from image generation to real-time object detection.  
-    I actively work on open-source projects and research to push the boundaries of AI capabilities.
-</p>
+## 🚀 About Me  
+I am a passionate **Machine Learning** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
+I thrive on solving real-world problems with cutting-edge AI techniques, from **image generation** to **real-time object detection**.  
+I actively work on **open-source projects** and **AI research** to push the boundaries of AI capabilities.
 
 ---
 
+## 🎯 Skills  
+- **Programming Languages:** Python, C++, R, SQL, MATLAB  
+- **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
+- **Computer Vision & NLP:** YOLO, ControlNet, Transformers (Hugging Face), Stable Diffusion  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Weights & Biases (WandB)  
+- **Development & Tools:** Jupyter Notebook, Git, Gradio  
+- **Cloud Platforms:** Google Cloud ☁️, Hugging Face Spaces  
+
+---
+
+## 🌱 Current Projects  
+✅ **📸 AI-Powered Image Generation with Embedded Text:**  
+Developing a deep learning model that **seamlessly integrates user-specified text** into AI-generated images, perfect for **poster creation** and **artistic text placement**.
+
+✅ **🤖 AI Chatbot:**  
+Building **smart LLMs** that understand user intent and provide accurate responses using **advanced NLP techniques**.
+
+---
+
+## 🏆 Achievements & Contributions  
+🚀 **Active contributor** to open-source AI/ML projects.  
+💡 Passionate about **AI research** and **innovative AI applications**.  
+
+---
+
+## 📊 GitHub Stats & Visuals  
+
+### **🔥 Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
 </p>
 
-<h2>🔧 Skills</h2>
-<ul>
-    <li><strong>Programming Languages:</strong> Python, C++, R, SQL, MATLAB</li>
-    <li><strong>Machine Learning & Deep Learning:</strong> TensorFlow, PyTorch, OpenCV</li>
-    <li><strong>Computer Vision & NLP:</strong> YOLO, ControlNet, Transformers (Hugging Face), Stable Diffusion</li>
-    <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Matplotlib, Weights & Biases (WandB)</li>
-    <li><strong>Development & Tools:</strong> Jupyter Notebook, Git, Gradio</li>
-    <li><strong>Cloud Platforms:</strong> Google Cloud ☁️, Hugging Face Spaces</li>
-</ul>
-
----
-
-<h2>🌱 Current Projects</h2>
-<ul>
-    <li><strong>📸 Image Generation with Embedded Text:</strong>  
-        Developing a robust deep learning model to teach Diffusion models how to integrate user-defined text into AI-generated images, capable of generating images while seamlessly integrating user-specified text. This project focuses on ensuring accurate text         
-        placement, making it ideal for applications like poster creation.
-    </li>
-    <li><strong>🤖 AI Chatbot:</strong>  
-        Working on smart LLMs that understands user intent and provides relevant responses using NLP techniques.
-    </li>
-</ul>
-
----
-
-<h2>🏆 Achievements & Contributions</h2>
-<ul>
-    <li>🚀 Active contributor to open-source AI/ML projects.</li>
-</ul>
-
----
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula)](https://github.com/subh-775)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast)](https://github.com/subh-775)
-
-
-<h2>📫 Let's Connect!</h2>
-<p>
-    I enjoy collaborating, sharing ideas, and working on impactful projects. Let’s connect and build something amazing together!  
+### **🏆 GitHub Trophies**
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
 </p>
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Models_&_Datasets-yellow?logo=huggingface)](https://huggingface.co/Subh775)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white)](mailto:subhansh4268@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhansh-malviya-a43b5b28b/)
+### **🔥 GitHub Streak Stats**
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast" />
+</p>
 
+### **📈 More GitHub Visualizations**
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=github" />
+</p>
 
+<p align="center">
+    <img src="https://github.com/subh-775/subh-775/blob/main/github-metrics.svg" />
+</p>
 
 ---
 
-<p align="center">Thank you for visiting my GitHub profile! Let’s innovate and learn together. 💡🚀</p>
+## 💡 Fun & Interactive Stats  
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A)](https://github.com/subh-775)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=subh-775&theme=radical)](https://github.com/subh-775)
-[![GitHub Skyline](https://skyline.github.com/subh-775/2023.png)](https://skyline.github.com/subh-775)
-![Metrics](https://github.com/subh-775/subh-775/blob/main/github-metrics.svg)
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=github)](https://github.com/subh-775)
-![Profile ASCII Art](https://github.com/subh-775/subh-775/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Animated Line](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![Header](https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya-orange?style=for-the-badge)
+### **⏳ WakaTime Coding Stats**
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subh-775&theme=radical" />
+</p>
 
+### **🌍 GitHub Skyline (3D Contribution Map)**
+<p align="center">
+    <a href="https://skyline.github.com/subh-775">
+        <img src="https://skyline.github.com/subh-775/2023.png" />
+    </a>
+</p>
 
+### **🎨 Profile ASCII Art**
+<p align="center">
+    <img src="https://github.com/subh-775/subh-775/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
+### **💬 Motivational Quote**
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
+---
 
+## 📫 Let's Connect!  
+I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let's **connect** and build something amazing together!  
 
+<p align="center">
+    <a href="https://huggingface.co/Subh775">
+        <img src="https://img.shields.io/badge/HuggingFace-Models_&_Datasets-yellow?logo=huggingface" />
+    </a>
+    <a href="mailto:subhansh4268@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/subhansh-malviya-a43b5b28b/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+    </a>
+</p>
+
+---
+
+## 🖥️ Cool Animated Divider  
+<p align="center">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting my GitHub profile! Let’s innovate and learn together. 🚀</p>
