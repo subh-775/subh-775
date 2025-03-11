@@ -55,11 +55,6 @@ Building **smart LLMs** that understand user intent and provide accurate respons
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast" />
 </p>
 
-### **📈 More GitHub Visualizations**
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=github" />
-</p>
-
 <p align="center">
     <img src="https://github.com/subh-775/subh-775/blob/main/github-metrics.svg" />
 </p>
