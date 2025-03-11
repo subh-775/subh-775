@@ -12,6 +12,9 @@ I thrive on solving real-world problems with cutting-edge AI techniques, from **
 I actively work on **open-source projects** and **AI research** to push the boundaries of AI capabilities.
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
+</p>
 
 ## 🎯 Skills  
 - **Programming Languages:** Python, C++, R, SQL, MATLAB  
@@ -38,12 +41,7 @@ Building **smart LLMs** that understand user intent and provide accurate respons
 
 ---
 
-## 📊 GitHub Stats & Visuals  
-
-### **🔥 Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
-</p>
+## 📊 Stats 
 
 ### **🏆 GitHub Trophies**
 <p align="center">
