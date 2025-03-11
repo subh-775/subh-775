@@ -61,7 +61,7 @@ I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let'
 
 ---
 
-## 🖥️ Cool Animated Divider  
+## 🖥️ Divider  
 <p align="center">
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
