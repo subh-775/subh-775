@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
+</p>
+
 <h2>🔧 Skills</h2>
 <ul>
     <li><strong>Programming Languages:</strong> Python, C++, R, SQL, MATLAB</li>
