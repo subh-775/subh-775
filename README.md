@@ -38,8 +38,6 @@ Building **smart LLMs** that understand user intent and provide accurate respons
 
 ---
 
-## 📊 Stats 
-
 ### **🏆 Trophies**
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
