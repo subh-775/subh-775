@@ -51,6 +51,13 @@
 
 ---
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subh-775&layout=compact&theme=tokyonight)](https://github.com/subh-775)
+![Profile Views](https://komarev.com/ghpvc/?username=subh-775&color=blue&style=flat-square)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula)](https://github.com/subh-775)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast)](https://github.com/subh-775)
+
+
 <h2>📫 Let's Connect!</h2>
 <p>
     I enjoy collaborating, sharing ideas, and working on impactful projects. Let’s connect and build something amazing together!  
@@ -67,10 +74,6 @@
 <p align="center">Thank you for visiting my GitHub profile! Let’s innovate and learn together. 💡🚀</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subh-775&layout=compact&theme=tokyonight)](https://github.com/subh-775)
-![Profile Views](https://komarev.com/ghpvc/?username=subh-775&color=blue&style=flat-square)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula)](https://github.com/subh-775)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subh-775&theme=highcontrast)](https://github.com/subh-775)
 
 
 
