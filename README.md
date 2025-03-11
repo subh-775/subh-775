@@ -64,34 +64,6 @@ Building **smart LLMs** that understand user intent and provide accurate respons
     <img src="https://github.com/subh-775/subh-775/blob/main/github-metrics.svg" />
 </p>
 
----
-
-## 💡 Fun & Interactive Stats  
-
-### **⏳ WakaTime Coding Stats**
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=subh-775&theme=radical" />
-</p>
-
-### **🌍 GitHub Skyline (3D Contribution Map)**
-<p align="center">
-    <a href="https://skyline.github.com/subh-775">
-        <img src="https://skyline.github.com/subh-775/2023.png" />
-    </a>
-</p>
-
-### **🎨 Profile ASCII Art**
-<p align="center">
-    <img src="https://github.com/subh-775/subh-775/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-### **💬 Motivational Quote**
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ## 📫 Let's Connect!  
 I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let's **connect** and build something amazing together!  
 
