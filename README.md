@@ -1,5 +1,5 @@
 
-<h1 align="center"><p align="center"><img src="https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya 👋-magenta?style=for-the-badge" /></p> </h1>
+<h1 align="center"><p align="center"><img src="https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya 👋-green?style=for-the-badge" /></p> </h1>
 
 ---
 
