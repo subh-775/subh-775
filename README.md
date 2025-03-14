@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I am a passionate **Computer-vision** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
+I am a passionate programmer in the field of **Computer-vision** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
 I thrive on solving real-world problems with cutting-edge AI techniques.  
 I actively work on **open-source projects** and **AI research** to push the boundaries of AI capabilities.
 
@@ -16,35 +16,25 @@ I actively work on **open-source projects** and **AI research** to push the boun
 ## 🎯 Skills  
 - **Programming Languages:** Python, C++, R, SQL, MATLAB  
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
-- **Computer Vision & NLP:** YOLO, ControlNet, Transformers (Hugging Face), Stable Diffusion  
+- **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Weights & Biases (WandB)  
 - **Development & Tools:** Jupyter Notebook, Git, Gradio  
 - **Cloud Platforms:** Google Cloud ☁️, Hugging Face Spaces  
 
 ---
 
-## 🌱 Current Projects  
+## 🌱 Working on 
 ✅ **📸 AI-Powered Image Generation with Embedded Text:**  
-Developing a deep learning model that **seamlessly integrates user-specified text** into AI-generated images, perfect for **poster creation** and **artistic text placement**.
-
-✅ **🤖 AI Chatbot:**  
-Building **smart LLMs** that understand user intent and provide accurate responses using **advanced NLP techniques**.
+Developing a deep learning model that **seamlessly integrates user-specified text** into AI-generated images, perfect for **poster creation** and **artistic text placement**, with the help of diffusion models.
 
 ---
-
-## 🏆 Achievements & Contributions  
-🚀 **Active contributor** to open-source AI/ML projects.  
-💡 Passionate about **AI research** and **innovative AI applications**.  
-
----
-
 ### **🏆 Trophies**
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
 </p>
 
 
-## 📫 Let's Connect!  
+## 📫 Connect with me!  
 I enjoy collaborating, sharing ideas, and working on impactful AI projects. Let's **connect** and build something amazing together!  
 
 <p align="center">
