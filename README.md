@@ -18,8 +18,8 @@ I actively work on **open-source projects** and **AI research** to push the boun
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
 - **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Weights & Biases (WandB)  
-- **Development & Tools:** Jupyter Notebook, Git, Gradio  
-- **Cloud Platforms:** Google Cloud ☁️, Hugging Face Spaces  
+- **Development & Tools:** Jupyter Notebook, Git, WandB 
+- **Cloud Platforms:** Google Cloud ☁️, HF Spaces  
 
 ---
 
