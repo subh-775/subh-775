@@ -1,8 +1,6 @@
-
-<h1 align="center"><p align="center"><img src="https://img.shields.io/badge/Hello%20There!-I'm%20Subhansh%20Malviya 👋-skyblue?style=for-the-badge" /></p> </h1>
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=6000&color=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=Hello+there%2C+I+am+Subhansh+Malviya
 
 ---
-
 ## 🚀 About Me  
 I am a passionate programmer in the field of **Computer-vision** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
 I thrive on solving real-world problems with cutting-edge AI techniques.  
