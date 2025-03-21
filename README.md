@@ -4,9 +4,7 @@
 
 ---
 ## 🚀 About Me  
-I am a passionate programmer in the field of **Computer-vision** and **Deep Learning** enthusiast with a strong interest in building intelligent AI solutions.  
-I thrive on solving real-world problems with cutting-edge AI techniques.  
-I actively work on **open-source projects** and **AI research** to push the boundaries of AI capabilities.
+I am a passionate programmer specializing in Computer Vision and Deep Learning, learning it's deep aspects and constantly exploring the ever-evolving world of AI. My journey is driven by a strong desire to develop intelligent AI solutions that can tackle real-world challenges effectively. My journey in Data Science, AI research, and Deep Learning continues to evolve as I explore new frontiers in technology and my ultimate goal is to bridge this gap between `Research` and `Practical` implementation.
 
 ---
 <p align="center">
