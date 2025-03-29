@@ -25,11 +25,11 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 
 ## 🌟 Currently Exploring
 
-🖌️✨ Exploring Image Processing & IC Lighting
+🔴 🖌️ Exploring Image Processing & IC Lighting
  Unraveling the magic of image processing and IC lighting to enhance realism in AI-generated visuals.
  Experimenting with light dynamics, reflections, and shadow play to push the boundaries of computer vision aesthetics.
 
-🧩🤖 Decoding Language with LLMs
+🟢 🤖 Decoding Language with LLMs
  Diving deep into Natural Language Understanding (NLU) powered by Large Language Models (LLMs).
  Exploring how AI comprehends, interprets, and generates human-like text, bridging the gap between visual intelligence and linguistic fluency.
  
