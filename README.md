@@ -23,7 +23,7 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 
 ---
 
-🌟 Currently Exploring
+## 🌟 Currently Exploring
 
 🖌️✨ Exploring Image Processing & IC Lighting
 Unraveling the magic of image processing and IC lighting to enhance realism in AI-generated visuals. Experimenting with light dynamics, reflections, and shadow play to push the boundaries of computer vision aesthetics.
