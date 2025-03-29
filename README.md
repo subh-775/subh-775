@@ -23,9 +23,13 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 
 ---
 
-## 🌱 Working on 
-✅ **📸 AI-Powered Image Generation with Embedded Text:**  
-Developing a deep learning model that **seamlessly integrates user-specified text** into AI-generated images, perfect for **poster creation** and **artistic text placement**, with the help of diffusion models.
+🌟 Currently Exploring
+
+🖌️✨ Exploring Image Processing & IC Lighting
+Unraveling the magic of image processing and IC lighting to enhance realism in AI-generated visuals. Experimenting with light dynamics, reflections, and shadow play to push the boundaries of computer vision aesthetics.
+
+🧩🤖 Decoding Language with LLMs
+Diving deep into Natural Language Understanding (NLU) powered by Large Language Models (LLMs). Exploring how AI comprehends, interprets, and generates human-like text, bridging the gap between visual intelligence and linguistic fluency.
 
 ---
 ### **🏆 Trophies**
