@@ -18,7 +18,7 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
 - **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion  
 - **Data Analysis & Visualization:**  Weights & Biases (WandB)  
-- **Development & Tools:** Jupyter Notebook, Git, WandB 
+- **Development & Tools:** Jupyter Notebook, Git, WandB, TensorBoard
 - **Cloud Platforms:** Google Cloud ☁️, HF Spaces  
 
 ---
