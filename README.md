@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 I am a passionate programmer specializing in Computer Vision and Deep Learning, constantly exploring the evolving world of AI and its deep intricacies. My journey is driven by a strong desire to develop intelligent AI solutions that effectively tackle real-world challenges.
 
-With a deep-rooted interest in Data Science, AI research, and Deep Learning, I continuously seek to bridge the gap between research and practical implementation. Some of my work revolves around leveraging cutting-edge AI techniques like `Stable Diffusion`, `ControlNet`, `GenAI`, and other SOTA `Diffusion Models`, particularly in image generation.
+With a deep-rooted interest in Data Science, AI research, and Deep Learning, I continuously seek to bridge the gap between research and practical implementation. Some of my work revolves around leveraging cutting-edge AI techniques like `Stable Diffusion`, `ControlNet`, `GenAI`, and other SOTA `Diffusion Models`, particularly in/for image generation tasks.
 
 ---
 <p align="center">
@@ -16,10 +16,10 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 ## 🎯 Skills  
 - **Programming Languages:** Python, C++, SQL 
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
-- **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion  
-- **Data Analysis & Visualization:**  Weights & Biases (WandB)  
-- **Development & Tools:** Jupyter Notebook, Git, WandB, TensorBoard
-- **Cloud Platforms:** Google Cloud ☁️, HF Spaces  
+- **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion, Transformers 
+- **Data Analysis & Visualization:**  Weights & Biases (WandB), tensorBoard  
+- **Development & Tools:** Jupyter Notebook, Git, Linux
+- **Cloud Platforms:** Google Cloud, Spaces, vercel  
 
 ---
 
