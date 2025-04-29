@@ -19,7 +19,7 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 - **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion, Transformers 
 - **Data Analysis & Visualization:**  Weights & Biases (WandB), tensorBoard  
 - **Development & Tools:** Jupyter Notebook, Git, Linux
-- **Cloud Platforms:** Google Cloud, Spaces, vercel  
+- **Cloud Platforms:** Spaces, vercel, Render
 
 ---
 
