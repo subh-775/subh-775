@@ -14,10 +14,8 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 </p>
 
 ## 🎯 Skills  
-- **Programming Languages:** Python, C++, SQL 
-- **Machine Learning & Deep Learning:** TensorFlow, PyTorch, OpenCV  
-- **Computer Vision & NLP:** YOLO, ControlNet, Stable Diffusion, Transformers 
-- **Data Analysis & Visualization:**  Weights & Biases (WandB), tensorBoard  
+- **ML, DL:** TensorFlow, PyTorch, ControlNet, Stable Diffusion, Transformers & Various architectures  
+- **Data Analysis & Visualization:**  WandB, TensorBoard  
 - **Development & Tools:** Jupyter Notebook, Git, Linux
 - **Cloud Platforms:** Spaces, vercel, Render
 
