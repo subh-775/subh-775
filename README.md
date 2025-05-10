@@ -14,7 +14,7 @@ With a deep-rooted interest in Data Science, AI research, and Deep Learning, I c
 </p>
 
 ## 🎯 Skills  
-- **ML, DL:** TensorFlow, PyTorch, ControlNet, Stable Diffusion, Transformers & Various architectures  
+- **ML, DL:** TensorFlow, PyTorch, Stable Diffusion, Transformers & Various architectures  
 - **Data Analysis & Visualization:**  WandB, TensorBoard  
 - **Development & Tools:** Jupyter Notebook, Git, Linux
 - **Cloud Platforms:** Spaces, vercel, Render
