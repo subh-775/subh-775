@@ -54,8 +54,4 @@ I'm always excited to collaborate on impactful AI projects, especially in **heal
     </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subh-775&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">✨ <strong>Thank you for visiting my profile!</strong> Let's innovate, learn, and create AI that make a difference. 🚀</p>
+<p align="center">✨ <strong>Thank you for visiting here!</strong> Let's innovate, learn, and create AI that make a difference. 🚀</p>
