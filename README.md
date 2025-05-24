@@ -7,8 +7,6 @@
 ## 🚀 About Me  
 Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning**, especially for **Healthcare AI Solutions**. My journey revolves around developing intelligent systems that bridge the gap between cutting-edge research and real-world applications, particularly in medical AI and assistive technologies, along with the conceptual mathematical understanding behind them.
 
-Right now I'm currently focusing on leveraging AI techniques using **RAG and NLP**, along with multimodal AI architectures.
-
 ---
 
 <p align="center">
