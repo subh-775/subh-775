@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning**, especially for **Healthcare AI Solutions**. My journey revolves around developing intelligent systems that bridge the gap between cutting-edge research and real-world applications, particularly in medical AI and assistive technologies, along with the conceptual mathematical understanding behind them.
+Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architecture**. My journey revolves around developing intelligent systems that bridge the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.
 
 ---
 
@@ -25,10 +25,9 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 
 ## 🌟 Current Focus Areas
 
-🟢 **🤖 Advanced AI Systems & LLMs**  
-&emsp;Implementing **Retrieval-Augmented Generation (RAG)** systems for specialized domains  
-&emsp;Exploring **multimodal AI architectures** combining text, and image processing  
-&emsp;Optimizing **LLM inference** and fine-tuning techniques for production applications  
+🟢 **🤖 Advanced AI Systems & LLMs**    
+&emsp;Exploring **multimodal AI architectures** combining text, and image processing.
+&emsp;Optimizing **LLM inference** and fine-tuning techniques for production applications.  
 
 ---
 
@@ -38,7 +37,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 </p>
 
 ## 📫 Let's Connect & Collaborate!  
-I'm always excited to collaborate on impactful AI projects, especially in **healthcare AI**, **educational technology**, and **innovative applications of generative AI**. Let's build something amazing together!
+I'm always excited to collaborate on impactful AI projects, especially in **educational technology**, and **innovative applications of generative AI**. Let's build something amazing together!
 
 <p align="center">
       <a href="https://huggingface.co/Subh775">
