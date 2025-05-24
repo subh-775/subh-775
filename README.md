@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 Desc  
 Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architecture**. My journey revolves around developing intelligent systems that bridge the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.
 
 ---
@@ -13,7 +13,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
 </p>
 
-## 🎯 Core Skills & Technologies
+## 🎯 Core Technologies
 - **AI & ML:** PyTorch, TensorFlow, Transformers, Computer Vision, NLP
 - **Generative AI:** Stable Diffusion, ControlNet, LLMs, RAG Systems  
 - **Development:** Python, LangChain, Vector Databases
@@ -23,11 +23,11 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 
 ---
 
-## 🌟 Current Focus Areas
+## 🌟 Currently working on
 
 🟢 **🤖 Advanced AI Systems & LLMs**    
-&emsp;Exploring **multimodal AI architectures** combining text, and image processing.
-&emsp;Optimizing **LLM inference** and fine-tuning techniques for production applications.  
+- &emsp;Exploring **multimodal AI architectures** combining text, and image processing.
+- &emsp;Optimizing **LLM inference** and fine-tuning techniques for production applications.  
 
 ---
 
