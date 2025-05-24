@@ -43,14 +43,14 @@ Right now I'm currently focusing on leveraging AI techniques using **RAG and NLP
 I'm always excited to collaborate on impactful AI projects, especially in **healthcare AI**, **educational technology**, and **innovative applications of generative AI**. Let's build something amazing together!
 
 <p align="center">
-    <a href="https://huggingface.co/Subh775">
-        <img src="https://img.shields.io/badge/🤗_HuggingFace-Models_&_Spaces-yellow?style=for-the-badge" />
+      <a href="https://huggingface.co/Subh775">
+        <img src="https://img.shields.io/badge/HuggingFace-Models_&_Datasets-yellow?logo=huggingface" />
     </a>
     <a href="mailto:subhansh4268@gmail.com">
-        <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/subhansh-malviya-a43b5b28b/">
-        <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
     </a>
 </p>
 
