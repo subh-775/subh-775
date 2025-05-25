@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Desc  
-Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architecture**. My journey revolves around developing intelligent systems that bridge the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.
+Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architectures**. My journey revolves around developing intelligent systems that bridges the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.
 
 ---
 
@@ -15,7 +15,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 
 ## 🎯 Core Technologies
 - **AI & ML:** PyTorch, TensorFlow, Transformers, Computer Vision, NLP
-- **Generative AI:** Stable Diffusion, ControlNet, LLMs, RAG Systems  
+- **Generative AI:** Stable Diffusion, ControlNet, LLMs
 - **Development:** Python, LangChain, Vector Databases
 - **Data & Visualization:** Pandas, NumPy, Matplotlib, WandB, TensorBoard
 - **Cloud & Deployment:** AWS, Vercel, Render
@@ -36,8 +36,8 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
     <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
 </p>
 
-## 📫 Let's Connect & Collaborate!  
-I'm always excited to collaborate on impactful AI projects, especially in **educational technology**, and **innovative applications of generative AI**. Let's build something amazing together!
+## 📫 Let's Connect!  
+Excited to collaborate on impactful AI projects, especially in **educational technology**, and **innovative applications of generative AI**.
 
 <p align="center">
       <a href="https://huggingface.co/Subh775">
