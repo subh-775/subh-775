@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Desc  
-Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architectures**. My journey revolves around developing intelligent systems that bridges the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.
+Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architectures**. My journey revolves around developing intelligent systems that bridges the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.. 
 
 ---
 
