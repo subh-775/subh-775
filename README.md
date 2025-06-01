@@ -14,7 +14,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 </p>
 
 ## 🎯 Core Technologies
-- **AI & ML:** PyTorch, TensorFlow, Transformers, Computer Vision, NLP
+- **AI & ML:** PyTorch, Transformers, Computer Vision, NLP
 - **Generative AI:** Stable Diffusion, ControlNet, LLMs
 - **Development:** Python, LangChain, Vector Databases
 - **Data & Visualization:** Pandas, NumPy, Matplotlib, WandB, TensorBoard
