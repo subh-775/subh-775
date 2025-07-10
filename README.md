@@ -19,7 +19,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 - **Development:** Python, LangChain, Vector Databases
 - **Data & Visualization:** Pandas, NumPy, Matplotlib, WandB, TensorBoard
 - **Cloud & Deployment:** AWS, Vercel, Render
-- **Tools:** Git, Linux, Jupyter, FAISS
+- **Tools:** Git, Linux, Jupyter, FAISS, Docker, n8n
 
 ---
 
