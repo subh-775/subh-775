@@ -3,9 +3,12 @@
 </p>
 
 ---
+${{\color{Red}\Huge{\textsf{  Passionate\ AI\ Enthusiast\ \}}}}\$
 
-## 🚀 Desc  
-Hello, Myself Subhansh and I am a passionate AI Engineer and researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architectures**. My journey revolves around developing intelligent systems that bridges the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.. 
+## Desc  
+Hi, Myself Subhansh and I am a passionate AI/ML researcher specializing in **Computer Vision**, **Deep Learning** and **Multimodal-AI architectures**. My journey revolves around research and developing intelligent systems that bridges the gap between cutting-edge research and real-world applications, along with the conceptual mathematical understanding behind them.. 
+
+of course, not a professional I am still learning about backend working of AI applications.
 
 ---
 
@@ -13,7 +16,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh-775&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&point=false&line=31C442&area_color=21914A" alt="Contribution Graph"/>
 </p>
 
-## 🎯 Core Technologies
+## Techstack
 - **AI & ML:** PyTorch, Transformers, Computer Vision, NLP
 - **Generative AI:** Stable Diffusion, ControlNet, LLMs
 - **Development:** Python, LangChain, Vector Databases
@@ -23,7 +26,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
 
 ---
 
-## 🌟 Currently working on
+## 🌟 Research Interest
 
 🟢 **🤖 Advanced AI Systems & LLMs**    
 - &emsp;Exploring **multimodal AI architectures** combining text, and image processing.
@@ -36,7 +39,7 @@ Hello, Myself Subhansh and I am a passionate AI Engineer and researcher speciali
     <img src="https://github-profile-trophy.vercel.app/?username=subh-775&theme=dracula" />
 </p>
 
-## 📫 Let's Connect!  
+## Connect!  
 Excited to collaborate on impactful AI projects, especially in **educational technology**, and **innovative applications of generative AI**.
 
 <p align="center">
