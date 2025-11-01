@@ -1,30 +1,32 @@
 ## **Subhansh Malviya**
-**Research Enthusiast in Vision AI**
+**Vision + Perception + Interpretation**
 
 ---
 
 ### **Summary**
-An AI/ML explorer and researcher specializing in Computer Vision & Deep Learning. Focused on bridging the gap between cutting-edge research and practical, real-world applications, with a strong foundation in the underlying mathematical principles.
+Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Reearcher. I like to build prototypes using existing methods which solves real-problems, other than quantizating or finetuning a model. I like to focus on mathematical intution behind existing principles, like how model architectures are made, loss functions, statistics and benchmarks..
 
 ---
 
 ### **Core Competencies**
 
-* **Domains:** Computer Vision, Generative AI (Stable Diffusion, ControlNet, Diffusion models)
-* **Frameworks:** PyTorch, Transformers, LangChain, 
-* **Data & MLOps:** Pandas, NumPy, Matplotlib, WandB, Docker, FAISS, TensorBoard
+* **Research Domain:** Computer Vision
+* **Frameworks:** PyTorch, Transformers, LangChain
+* **Data & MLOps:** Pandas, NumPy, Matplotlib, Docker, FAISS, TensorBoard, WandB
 * **Languages & Tools:** Python, SQL, Git, Linux, Jupyter
-* **Cloud & Deployment:** AWS, Vercel, Render
+* **Cloud & Deployment:** AWS, Vercel, Render, HF-spaces, 
   
 ---
 
-### **Research Interests**
+### **Current..**
 
-* Optimization of architectures combining vision and language.
+* CLIP vs Perception Encoder combining (Vision+language) [D Bolya. Research Scientist (FAIR) at meta.]
+* Accuracy-latency pareto curve in real-time detectors....*
+* Open-Vocuabulary Detectors..* 
 
 ### **Collaboration**
 
-Open to collaborating on impactful & **innovative generative AI applications**.
+*Love to collaborate or share a project*
 
 **Connect with me:**
 
