@@ -1,12 +1,11 @@
 ## **Subhansh Malviya**
-**Vision + Perception + Interpretation**
 
----
+### Vision + Perception + Interpretation
+
 
 ### **Summary**
 Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Reearcher. I like to build prototypes using existing methods which solves real-problems, other than quantizating or finetuning a model. I like to focus on mathematical intution behind existing principles, like how model architectures are made, loss functions, statistics and benchmarks..
 
----
 
 ### **Core Competencies**
 
@@ -14,9 +13,7 @@ Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Reearcher. I
 * **Frameworks:** PyTorch, Transformers, LangChain
 * **Data & MLOps:** Pandas, NumPy, Matplotlib, Docker, FAISS, TensorBoard, WandB
 * **Languages & Tools:** Python, SQL, Git, Linux, Jupyter
-* **Cloud & Deployment:** AWS, Vercel, Render, HF-spaces, 
-  
----
+* **Cloud & Deployment:** AWS, Vercel, Render, HF-spaces
 
 ### **Current..**
 
