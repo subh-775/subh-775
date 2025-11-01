@@ -4,7 +4,7 @@
 
 
 ### **Summary**
-Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Reearcher. I like to build prototypes using existing methods which solves real-problems, other than quantizating or finetuning a model. I like to focus on mathematical intution behind existing principles, like how model architectures are made, loss functions, statistics and benchmarks..
+Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Researcher. I like to build prototypes using existing methods which solves real-problems, other than quantizating or finetuning a model. I like to focus on mathematical intution behind existing principles, like how model architectures are made, loss functions, statistics and benchmarks..
 
 
 ### **Core Competencies**
