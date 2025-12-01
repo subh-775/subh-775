@@ -19,7 +19,9 @@ Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Researcher. 
 
 * CLIP vs Perception Encoder combining (Vision+language) [D Bolya. Research Scientist (FAIR) at meta.]
 * Accuracy-latency pareto curve in real-time detectors....
-* Open-Vocabulary Detectors.. 
+* Open-Vocabulary Detectors..
+
+🔥 Catch the vibes at: [![Listen Free](https://img.shields.io/badge/Listen-Good_Vibes-ff144b?logo=youtube-music&logoColor=white)](https://good-boy-vibes.onrender.com)
 
 **Connect with me:**
 
