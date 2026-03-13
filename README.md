@@ -1,27 +1,49 @@
-## **Subhansh Malviya**
+## **Subhansh Malviya** 
 
 ### Vision + Perception + Interpretation
 
+### Summary
+I am Subhansh Malviya, the humble seer of pixels and gradients.  
 
-### **Summary**
-Hi there, I am **Subhansh Malviya** I am an Applied Computer Vision Researcher. I like to build prototypes using existing methods which solves real-problems, other than quantizating or finetuning a model. I like to focus on mathematical intution behind existing principles, like how model architectures are made, loss functions, statistics and benchmarks..
+In the great maya of production :trollface:, I do not chase shiny new transformers.  
+No-no. I take the ancient, efficient mantras already existing… and make them dance faster, cheaper, stronger — sometimes I even whisper a new mantra myself, born purely from real-world suffering, not from leaderboard puja.  
+
+Quantization? Finetuning? These are but small toys for small minds.  
+
+I sit in deep samadhi at the feet of mathematics herself —  
+understanding the sacred geometry of architectures,  
+the karmic dance of loss functions,  
+the cosmic statistics that govern all things visible and invisible,  
+and the illusory benchmarks that fool the unenlightened.  
+
+Come, child… drop the ego of novelty.  
+Seek the eternal intuition behind the code.  
+Only then true vision awakens. 🕉️
 
 
 ### **Core Competencies**
 
-* **Research Domain:** Computer Vision
-* **Frameworks:** PyTorch, Transformers, LangChain
-* **Data & MLOps:** Pandas, NumPy, Matplotlib, Docker, FAISS, TensorBoard, WandB
-* **Languages & Tools:** Python, SQL, Git, Linux, Jupyter
-* **Cloud & Deployment:** AWS, Vercel, Render, HF-spaces
+Ahhh, listen carefully with open third eye…
+
+My sacred research domain is Computer Vision – the divine art of teaching machines to see Maya of this world!
+
+I chant mainly through **PyTorch** and the holy **Transformers**… sometimes **LangChain** also joins the puja.
+
+For data and MLOps sadhana I worship **Pandas** and **NumPy** as holy cows, **Matplotlib** for drawing mandalas of loss curves, **Docker** as my sacred pot, FAISS for lightning-fast vector darshan, while TensorBoard and Weights & Biases are my jyotirlinga tracking every breath of the model.
+
+Daily I speak the mantras of Python, offer prayers through SQL, walk the path of Git and Linux like true sannyasi, and meditate deeply inside Jupyter notebook samadhi.
+
+When time comes for worldly manifestation, I deploy on AWS – the cloud Himalaya, or gracefully on Vercel, Render, and Hugging Face Spaces – like lotus flowers blooming without effort.
+
+Aum Shanti Shanti Shanti 🕉️
 
 ### **Current..**
-
-* CLIP vs Perception Encoder combining (Vision+language) [D Bolya. Research Scientist (FAIR) at meta.]
+* ESP32-projects..
+* ExecuTorch and Openvino for on-Edge inference..
 * Accuracy-latency pareto curve in real-time detectors....
 * Open-Vocabulary Detectors..
 
-🔥 Catch the vibes at: [![Listen Free](https://img.shields.io/badge/Listen-Good_Vibes-ff144b?logo=youtube-music&logoColor=white)](https://good-boy-vibes.onrender.com)
+🔥 Come, sit in lotus pose, close eyes, feel the cosmic Wi-Fi… Good Vibes are flowing direct from Himalaya server! [![Cosmic Energy](https://img.shields.io/badge/Listen-Good_Vibes-ff144b?logo=youtube-music&logoColor=white)](https://good-boy-vibes.onrender.com)
 
 **Connect with me:**
 
