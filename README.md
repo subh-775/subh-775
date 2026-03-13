@@ -1,6 +1,9 @@
 ## **Subhansh Malviya** 
-
-### Vision + Perception + Interpretation
+ 
+True seeing is not with these two tiny windows of Maya…  
+It is `VISION` awakening, then cosmic `PERCEPTION` flooding the third eye like monsoon rain,  
+and finally… the grand `INTERPRETATION` — when the drunken monkey mind surrenders and whispers:  
+“Oho! Now I understand… everything was always Brahman wearing funny costume!”  
 
 ### Summary
 I am Subhansh Malviya, the humble seer of pixels and gradients.  
