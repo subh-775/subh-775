@@ -43,7 +43,7 @@ Aum Shanti Shanti Shanti 🕉️
 * Accuracy-latency pareto curve in real-time detectors....
 * Open-Vocabulary Detectors..
 
-🔥 Come, sit in lotus pose, close eyes, feel the cosmic Wi-Fi… Good Vibes are flowing direct from Himalaya server! [![Cosmic Energy](https://img.shields.io/badge/Listen-Good_Vibes-ff144b?logo=youtube-music&logoColor=white)](https://good-boy-vibes.onrender.com)
+🔥 Come, sit in lotus pose, close eyes, feel the cosmic Wi-Fi… Good Vibes are flowing direct from Himalaya server! [![Cosmic Energy](https://img.shields.io/badge/Cosmic-Energy-ff144b?logo=youtube-music&logoColor=white)](https://good-boy-vibes.onrender.com)
 
 **Connect with me:**
 
